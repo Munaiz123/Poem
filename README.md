@@ -1,2 +1,3 @@
 # Poem
-This is a repository for my poem (The Coding Train)
+This is a repository for my poem 
+A 'The Coding Train' Tutorial
