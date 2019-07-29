@@ -8,5 +8,6 @@ green
 yellow
 red
 These are the colors of the rainbow. 
+You may get lucky and find some gold at the end. 
 
 the end. 
